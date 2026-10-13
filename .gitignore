@@ -1,0 +1,17 @@
+.DS_Store
+.worktrees/
+.env
+.env.*
+*.pem
+*.key
+*.log
+__pycache__/
+.venv/
+node_modules/
+dist/
+.codex/
+.claude/
+.agents/
+AGENTS.md
+CLAUDE.md
+*.local.*
