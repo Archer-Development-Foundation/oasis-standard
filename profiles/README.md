@@ -15,3 +15,7 @@ Profiles turn core semantics into implementable mechanisms. This publication con
 A profile proposal needs an identifier and version, exact dependency revisions, roles, wire encoding, a state machine, security/privacy analysis, positive and negative vectors, and an implementation report. Required semantics cannot be hidden in an optional extension.
 
 No default processor, chain, token, custody provider, or hosted endpoint is mandated here. Registry contracts, network-executed adapters, cross-executor aggregate budgets, and public anchoring are later profiles with separate acceptance gates.
+
+## Draft proposals
+
+[Long-running operation lifecycle](../asips/ASIP-long-running-operation-lifecycle.md) proposes ongoing control, bound continuations, recovery, and attributable obligations for continuing services. It is an unnumbered Draft ASIP with candidate fields and test designs, not a registered profile or an amendment to the numbered specifications.
